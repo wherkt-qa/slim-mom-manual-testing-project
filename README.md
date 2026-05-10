@@ -27,7 +27,7 @@ To ensure high-quality visual standards, I performed a thorough comparison betwe
     * **Cross-platform coverage (Team)**: Android 13, iOS 17, macOS 12.
 * **Key Areas Tested**: Registration/Login flows, Calorie Calculator, Diary/History, Prohibited Products List.
 
-## 🏆 Key Achievements & Contributions
+## Key Achievements & Contributions
 
 ### 1. API & Dynamic Testing (Swagger)
 I was responsible for verifying the API layer using Swagger. I identified and reported **4 critical bugs** regarding response handling:
@@ -67,13 +67,13 @@ The team discovered a **critical security flaw** in the registration process. Th
 
 ---
 
-## 📃 Full Project Documentation
+## Full Project Documentation
 For a deep dive into the project, feel free to explore the repository folders:
 
-* 📁 [**Bug Reports**](./bug-reports) - Full set of documented defects.
-* 📁 [**Test Checklists**](./test-checklists) - Comprehensive lists for API and functional testing.
-* 📁 [**Project Presentation**](./project-presentation) - Full sprint summary presentation.
-* 📁 [**Static Testing**](./static-testing) - Detailed breakdown of specification flaws and PDF report.
-* 📁 [**App Previews**](./app-previews) - UI vs Design comparison files.
+* 📁 [**Bug Reports**](./bug-reports) - Full set of documented defects
+* 📁 [**Test Checklists**](./test-checklists) - Comprehensive lists for API and functional testing
+* 📁 [**Project Presentation**](./project-presentation) - Full sprint summary presentation
+* 📁 [**Static Testing**](./static-testing) - Detailed breakdown of specification flaws and PDF report
+* 📁 [**App Previews**](./app-previews) - UI vs Design comparison files
 
 ---
