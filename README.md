@@ -67,7 +67,7 @@ The team discovered a **critical security flaw** in the registration process. Th
 
 ---
 
-## Full Project Documentation
+## 📂 Full Project Documentation
 For a deep dive into the project, feel free to explore the repository folders:
 
 * 📁 [**Bug Reports**](./bug-reports) - Full set of documented defects
