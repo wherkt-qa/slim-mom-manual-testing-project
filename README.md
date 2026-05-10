@@ -1,0 +1,1 @@
+# slim-mom-manual-testing-project
